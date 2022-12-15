@@ -1,0 +1,67 @@
+1 – Diferencie erro, falha e defeito.
+ 
+R: um erro é um erro de programação, uma falha é um erro de execução e um defeito é um erro de projeto.
+
+2 – Após o teste um software pode ser considerado livre de defeitos?
+    
+R: Não, pois um software pode ter defeitos que não foram detectados.
+
+3 – O que são casos de teste? Por que são importantes?
+
+R: São os cenários de teste, são importantes pois são os cenários que serão testados.
+
+4 – É possível criar casos de teste antes de começar a desenvolver um software?
+
+R: Sim, pois os casos de teste são os cenários que serão testados.
+
+5 – É recomendável que o teste de um software não seja feito pelo programador. Justifique.
+
+R: Não, pois o programador pode ter um viés de programação e não testar o software de forma correta.
+
+6 – Diferencie validação e verificação de software.
+
+R: A validação é a verificação de que o software está de acordo com os requisitos, e a verificação é a verificação de que o software está correto.
+
+-----------------------------------
+1 – Pesquise três casos de prejuízos causados por falhas em software. Faça um resumo dos casos, descrevendo o erro, a consequência e o prejuízo causado pelo erro. Não se esqueça de citar a fonte.
+ 
+Site: https://www.tecmundo.com.br/tecnologia/49572-bugs-10-falhas-de-computadores-que-causaram-muito-prejuizo-e-confusao.htm
+R: 1 URLs O erro da gigante de Mountain View que eram direcionadas para o buscador da empresa. Dessa maneira, o site foi sinalizado como malware no mundo todo por cerca de uma hora, gerando um prejuízo total de quase US$ 3 milhões (quase R$ 7 milhões).
+   2 A empresa Knight Capital Group (ou apenas KCG) trabalha há algum tempo com investimentos. Porém, em 2012, eles quase faliram. Tudo porque um novo software foi comprado para o sistema da companhia, o que gerou milhares de negociações que não poderia ser feitas. Desse modo, em apenas meia hora, a KCG perdeu US$ 440 milhões (mais de R$ 1 bilhão) e ficou em uma situação bastante crítica.
+   3 Em 2011, por conta de um defeito de programação no sistema dos seus veículos, a Honda foi obrigada a realizar o recall de 2,5 milhões de automóveis. O problema é que o airbag era ativado com muita força e pela peça errada, o que poderia machucar os motoristas no lugar de protegê-los — e é claro que uma operação dessas custou milhões de dólares para a empresa.
+
+2 – Pesquise em dois sites de emprego vagas na área de teste de software. Use termos como analista de teste, teste software, qualidade software, etc. Para cada site pesquisado, anote:
+
+Site 01 : https://br.indeed.com/empregos-de-Teste-De-Software?vjk=1b47385df553fa98
+Site 02: https://portal.gupy.io/vagas?searchTerm=teste%20de%20software
+
+a) Informe a quantidade de vagas encontradas para cada site pesquisado
+
+site 1 = 6.586 vagas
+site 2 = 536 vagas
+
+b) Faça uma lista das atividades descritas nas vagas;
+
+Site 01:
+Elaborar e executar caso de testes para a solução desenvolvida;
+Realizar a execução de testes exploratórios e de integração em projetos de software Web;
+Apoiar o time na validação de novas releases;
+Oferecer suporte à análise de problemas encontrados e na solução em desenvolvimento.
+
+Site 02:
+Testes funcionais de software;
+Testes automatizados de software;
+Apoiar o time de desenvolvimento;
+Contribuir para a elaboração de documentações técnicas. 
+
+c) Faça uma lista de requisitos para o cargo
+
+Site 01:
+Formação superior em andamento em Engenharia da Computação, Ciência da Computação ou similar;
+Conhecimentos ou experiência acadêmica na análise de problemas, sugestão de correções/melhorias e execução de testes;
+Conhecimentos em HTML, CSS e Javascript. Requisitos.
+
+Site 02:
+Experiência/Conhecimento em teste de software;
+Conhecimento em .NET;
+Inglês intermediário/avançado
